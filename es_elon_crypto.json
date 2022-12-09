@@ -1,0 +1,13 @@
+[
+    {
+        "name": "es_elon_crypto_video_1",
+        "action": "Únete al programa y gana",
+        "priority": "1",
+        "media": [
+            {
+                "url": "https://github.com/Cryptopulsing/crypto/blob/main/es_elon_crypto_01.mp4?raw=true",
+                "mime": "video/mp4"
+            }
+        ]
+    }
+]
